@@ -10,4 +10,4 @@ function linearSearch (seekElement) {
     return foundIndices;
 }
 
-console.log(linearSearch('a'));
+linearSearch('a');
