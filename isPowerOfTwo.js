@@ -13,4 +13,4 @@ function isPowerOfTwo(num) {
   return true;
 
 }
-console.log(isPowerOfTwo(5));
+isPowerOfTwo(5);
