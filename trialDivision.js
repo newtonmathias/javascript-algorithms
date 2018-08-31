@@ -1,6 +1,6 @@
 function trialDivision (num){
     //checks if the number is an integer
-    if (num % 1 !==0){
+    if (num % 1 !== 0){
         return false;
     }
     
@@ -9,7 +9,7 @@ function trialDivision (num){
         return false;
     }
 
-    //both 2 and 3 are prime numbers
+    //both 2 and 3 are prime numbers.
     if (num === 2 || 3){
         return true;
     }
